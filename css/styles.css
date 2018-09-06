@@ -92,21 +92,21 @@ ol li {
 .contact-item .mail:hover {
 	background: #FF1744;
 }
-.contact-item .github { border-color: #333333; color: #333333 }
-.contact-item .linkedin { border-color: #0478B5; color: #0478B5 }
-.contact-item .stackoverflow { border-color: #F48024; color: #F48024 }
-.contact-item .codepen { border-color: #333333; color: #333333 }
-.contact-item .jsfiddle { border-color: #3D6AA2; color: #3D6AA2 }
-.contact-item .twitter { border-color: #55ACEF; color: #55ACEF }
-.contact-item .pinterest { border-color: #BC001B; color: #BC001B }
-.contact-item .github:hover { background-color: #333333 }
-.contact-item .linkedin:hover { background-color: #0478B5 }
-.contact-item .stackoverflow:hover { background-color: #F48024 }
-.contact-item .codepen:hover { background-color: #333333 }
-.contact-item .jsfiddle:hover { background-color: #3D6AA2 }
-.contact-item .twitter:hover { background-color: #55ACEF }
-.contact-item .pinterest:hover { background-color: #BC001B }
-.contact-item a:hover .fa{ color: #FFFFFF; }
+.contact-item .github {color: #FFFFFF }
+.contact-item .linkedin {color: #FFFFFF }
+.contact-item .stackoverflow {color: #FFFFFF }
+.contact-item .codepen {color: #FFFFFF }
+.contact-item .jsfiddle {color: #FFFFFF }
+.contact-item .twitter {color: #FFFFFF }
+.contact-item .pinterest {color: #FFFFFF }
+.contact-item .github:hover { background-color: #0076FF }
+.contact-item .linkedin:hover { background-color: #0076FF }
+.contact-item .stackoverflow:hover { background-color: #0076FF }
+.contact-item .codepen:hover { background-color: #0076FF }
+.contact-item .jsfiddle:hover { background-color: #0076FF }
+.contact-item .twitter:hover { background-color: #0076FF }
+.contact-item .pinterest:hover { background-color: #0076FF }
+.contact-item a:hover .fa{ color: #0076FF; }
 
 
 /* TITLES */
@@ -191,11 +191,11 @@ a:hover {
 }
 .btn--primary {
 	background: transparent;
-	border-color: #FF1744;
-	color: #FF1744;
+	border-color: #0076FF;
+	color: #0076FF;
 }
 .btn--primary:hover {
-	background: #FF1744;
+	background: #0076FF;
 	color: #FFFFFF;
 }
 .btn--lg {
@@ -711,12 +711,8 @@ video {
 	margin-bottom: 0
 }
 
-/********************/
-/*					*/
 /*		TABLETS		*/
-/*					*/
-/********************/
-/* Pra dispositivos que tem uma largura mínima de 768 pixels. Tablets, por exemplo. */
+
 
 @media screen and (min-width: 768px) {
 	.menu__item {
@@ -792,13 +788,6 @@ video {
 
 }
 
-
-/********************/
-/*					*/
-/*		DESKTOP		*/
-/*					*/
-/********************/
-/* Com uma largura mínima de 992 pixels. Monitores por exemplo. */
 
 @media screen and (min-width: 992px) {
 	.work__gallery {
