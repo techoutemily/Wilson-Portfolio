@@ -83,22 +83,22 @@ ol li {
 .contact-item a {
 	background: transparent;
 	border-style: solid;
-	border-width: 1px;
+	border-width: 0px;
 	display: block;
 	width: 100%;
 	padding: 12px;
 	height: 65px;
 }
 .contact-item .mail:hover {
-	background: #FF1744;
+	background: #0076FF;
 }
-.contact-item .github {color: #FFFFFF }
-.contact-item .linkedin {color: #FFFFFF }
-.contact-item .stackoverflow {color: #FFFFFF }
-.contact-item .codepen {color: #FFFFFF }
-.contact-item .jsfiddle {color: #FFFFFF }
-.contact-item .twitter {color: #FFFFFF }
-.contact-item .pinterest {color: #FFFFFF }
+.contact-item .github {color: #0076FF }
+.contact-item .linkedin {color: #0076FF }
+.contact-item .stackoverflow {color: #0076FF }
+.contact-item .codepen {color: #0076FF }
+.contact-item .jsfiddle {color: #0076FF }
+.contact-item .twitter {color: #0076FF }
+.contact-item .pinterest {color: #0076FF }
 .contact-item .github:hover { background-color: #0076FF }
 .contact-item .linkedin:hover { background-color: #0076FF }
 .contact-item .stackoverflow:hover { background-color: #0076FF }
@@ -106,7 +106,7 @@ ol li {
 .contact-item .jsfiddle:hover { background-color: #0076FF }
 .contact-item .twitter:hover { background-color: #0076FF }
 .contact-item .pinterest:hover { background-color: #0076FF }
-.contact-item a:hover .fa{ color: #0076FF; }
+.contact-item a:hover .fa{ color: #FFFFFF; }
 
 
 /* TITLES */
