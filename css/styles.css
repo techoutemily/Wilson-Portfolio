@@ -106,7 +106,7 @@ ol li {
 .contact-item .jsfiddle:hover { background-color: #0076FF }
 .contact-item .twitter:hover { background-color: #0076FF }
 .contact-item .pinterest:hover { background-color: #0076FF }
-.contact-item a:hover .fa{ color: #FFFFFF; }
+.contact-item a:hover .fa{ color: #0076FF; }
 
 
 /* TITLES */
