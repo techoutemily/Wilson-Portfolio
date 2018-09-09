@@ -141,8 +141,9 @@ h3 {
 
 /* LINKS AND BUTTONS */
 a {
-	color: #FF1744;
+	color: #0076FF;
 	text-decoration: none;
+	text-align: center;
 }
 a:hover {
 	text-decoration: underline;
