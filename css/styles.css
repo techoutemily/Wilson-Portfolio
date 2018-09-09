@@ -394,10 +394,10 @@ textarea.form__control {
     overflow: hidden;
 }
 .panel__symbol {
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: 300;
 	color: #0076FF;
-	display: inline-grid;
+	display: inline-flex;
 }
 .panel__body {
 	padding: 0 20px 20px;
