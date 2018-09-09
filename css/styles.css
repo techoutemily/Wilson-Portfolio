@@ -397,6 +397,7 @@ textarea.form__control {
 	font-size: 60px;
 	font-weight: 300;
 	color: #0076FF;
+	padding: 7em;
 }
 .panel__body {
 	padding: 0 20px 20px;
