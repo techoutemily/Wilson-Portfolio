@@ -395,9 +395,8 @@ textarea.form__control {
 }
 .panel__symbol {
 	font-size: 50px;
-	font-weight: 300;
+	font-weight: 200;
 	color: #0076FF;
-	display: inline-flex;
 }
 .panel__body {
 	padding: 0 20px 20px;
