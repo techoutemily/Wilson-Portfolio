@@ -394,9 +394,9 @@ textarea.form__control {
     overflow: hidden;
 }
 .panel__symbol {
-	font-size: 42px;
+	font-size: 72px;
 	font-weight: 300;
-	color: #FF1744;
+	color: #0076FF;
 }
 .panel__body {
 	padding: 0 20px 20px;
