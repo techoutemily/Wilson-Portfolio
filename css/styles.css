@@ -503,6 +503,8 @@ textarea.form__control {
 }
 .section__container--jumbo h1 {
 	font-size: 32px;
+	color: #0076FF;
+	text-align: center;
 	margin: 0 auto .2em;
 	font-family: "Roboto", sans-serif;
 	text-transform: none;
