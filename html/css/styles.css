@@ -72,8 +72,9 @@ ol li {
   width: 65px;
   height: 65px;
   margin: 0 auto 10px;
-  font-size: 2em;
+  font-size: 4em;
   text-align: center;
+	color:#0076FF;
 }
 .contact-item a {
 	background: transparent;
