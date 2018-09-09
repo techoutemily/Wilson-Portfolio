@@ -143,7 +143,6 @@ h3 {
 a {
 	color: #0076FF;
 	text-decoration: none;
-	text-align: center;
 }
 a:hover {
 	text-decoration: underline;
@@ -245,7 +244,7 @@ a:hover {
 	font-size: .85em
 }
 .label--primary {
-	background: #FF1744;
+	background: #0076FF;
 	padding: 2px 8px;
 	color: #FFFFFF;
 }
@@ -285,7 +284,7 @@ a:hover {
   box-shadow: 0 1px 3px rgba(0,0,0,.1) inset;
 }
 .form__control:focus {
-  border-color: #FF1744;
+  border-color: #0076FF;
   outline: 0;
 }
 .form__control::-moz-placeholder {
@@ -480,7 +479,7 @@ textarea.form__control {
 .menu__item.menu__item--brand > .menu__link {
 	font-size: 16px;
 	line-height: 1.1em;
-	color: #FF1744;
+	color: #0076FF;
 	font-weight: 700;
 }
 
@@ -526,7 +525,7 @@ textarea.form__control {
 /* SVG ANIMATION */
 .path {
 	fill:none;
-	stroke:#FF1744;
+	stroke:#0076FF;
 	stroke-dasharray: 1000;
 	stroke-dashoffset: 1000;
 	stroke-width: 2;
