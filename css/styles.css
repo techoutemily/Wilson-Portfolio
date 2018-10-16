@@ -182,7 +182,7 @@ a:hover {
 	width: 100%;
 }
 .btn--default {
-	background: transparent;
+	background: #FFFFFF;
 	border-color: #999999;
 	color: #666;
 }
@@ -191,7 +191,7 @@ a:hover {
 	color: #FFFFFF;
 }
 .btn--primary {
-	background: transparent;
+	background: #FFFFFF;
 	border-color: #0076FF;
 	color: #0076FF;
 }
