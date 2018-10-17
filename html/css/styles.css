@@ -73,7 +73,6 @@ ol li {
   height: 65px;
   margin: 0 auto 10px;
   font-size: 4em;
-  text-align: center;
 	color:#0076FF;
 }
 .contact-item a {
@@ -88,7 +87,7 @@ ol li {
 .contact-item .mail { color: #0076FF }
 .contact-item .linkedin { color: #0076FF }
 .contact-item .instagram { color: #0076FF }
-
+.panel__symbol{ color:#0076FF}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -141,7 +140,7 @@ h3 {
 
 /* LINKS AND BUTTONS */
 a {
-	color: #FF1744;
+	color: #0076FF;
 	text-decoration: none;
 }
 a:hover {
@@ -183,7 +182,7 @@ a:hover {
 	width: 100%;
 }
 .btn--default {
-	background: transparent;
+	background: #FFFFFF;
 	border-color: #999999;
 	color: #666;
 }
@@ -192,13 +191,13 @@ a:hover {
 	color: #FFFFFF;
 }
 .btn--primary {
-	background: transparent;
-	border-color: #0076FF;
-	color: #0076FF;
-}
-.btn--primary:hover {
 	background: #0076FF;
 	color: #FFFFFF;
+}
+.btn--primary:hover {
+	background: #FFFFFF;
+	border-color: #0076FF;
+	color: #0076FF;
 }
 .btn--lg {
   padding: 12px 36px;
@@ -244,7 +243,7 @@ a:hover {
 	font-size: .85em
 }
 .label--primary {
-	background: #FF1744;
+	background: #0076FF;
 	padding: 2px 8px;
 	color: #FFFFFF;
 }
@@ -284,7 +283,7 @@ a:hover {
   box-shadow: 0 1px 3px rgba(0,0,0,.1) inset;
 }
 .form__control:focus {
-  border-color: #FF1744;
+  border-color: #0076FF;
   outline: 0;
 }
 .form__control::-moz-placeholder {
@@ -394,9 +393,10 @@ textarea.form__control {
     overflow: hidden;
 }
 .panel__symbol {
-	font-size: 60px;
-	font-weight: 300;
+	font-size: 50px;
+	font-weight: 200;
 	color: #0076FF;
+	align-items: center;
 }
 .panel__body {
 	padding: 0 20px 20px;
@@ -479,7 +479,7 @@ textarea.form__control {
 .menu__item.menu__item--brand > .menu__link {
 	font-size: 16px;
 	line-height: 1.1em;
-	color: #FF1744;
+	color: #0076FF;
 	font-weight: 700;
 }
 
@@ -503,6 +503,8 @@ textarea.form__control {
 }
 .section__container--jumbo h1 {
 	font-size: 32px;
+	color: #0076FF;
+	text-align: center;
 	margin: 0 auto .2em;
 	font-family: "Roboto", sans-serif;
 	text-transform: none;
@@ -525,7 +527,7 @@ textarea.form__control {
 /* SVG ANIMATION */
 .path {
 	fill:none;
-	stroke:#FF1744;
+	stroke:#0076FF;
 	stroke-dasharray: 1000;
 	stroke-dashoffset: 1000;
 	stroke-width: 2;
