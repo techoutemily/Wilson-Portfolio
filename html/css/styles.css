@@ -182,13 +182,13 @@ a:hover {
 	width: 100%;
 }
 .btn--default {
+	background: #999999;
+	color: #FFFFFF;
+}
+.btn--default:hover {
 	background: #FFFFFF;
 	border-color: #999999;
 	color: #666;
-}
-.btn--default:hover {
-	background: #999999;
-	color: #FFFFFF;
 }
 .btn--primary {
 	background: #0076FF;
